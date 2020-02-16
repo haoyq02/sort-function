@@ -9,5 +9,10 @@
             "email": "haoyuqi02@gmail.com"
         }
     ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
     "require": {}
 }
